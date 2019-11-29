@@ -14,17 +14,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: zh-CN
-title: Heshuyi's CapstoneProject Template (for NFU Students)
+title: Hanteng's CapstoneProject Template (for NFU Students)
 email:
 description: "顶点课程/毕业设计/毕业论文/模板"
 baseurl: "/CapstoneProject"  # the optional subpath of your site, e.g. "/blog"
-url: "https://shuyi-ho.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://hanteng.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author: 
-  name: "Student of Nanfang College of Sun Yat-sen University"
+  name: "Associate Professor Han-Teng Liao"
   twitter:
   picture:
 twitter_username:
-github_username: "Shuyi-Ho"
+github_username: "hanteng"
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: true # true, false (default)
 search_full_content: false # true, false (default)
