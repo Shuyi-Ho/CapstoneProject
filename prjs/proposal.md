@@ -94,14 +94,16 @@ image:
 ## 四丶参考文献
 
 > 中文文档及文献书写格式要按国家标准GB/7714－87或ACM SIGCHI格式规定，英文文档及文献要按APA或ACM SIGCHI格式规定。务必要设置好Zotero及Word Plugin。
-1.Guillen-Royo, M. 2019. Sustainable consumption and wellbeing: Does on-line shopping matter? Journal of Cleaner Production. 229, (Aug. 2019), 1112–1124. DOI:https://doi.org/10.1016/j.jclepro.2019.05.061.
-2.HU Yonghong.2016.Statistic Measurement and Empirical Research on Sustainable Development of China Internet
+
+
+1. Guillen-Royo, M. 2019. Sustainable consumption and wellbeing: Does on-line shopping matter? Journal of Cleaner Production. 229, (Aug. 2019), 1112–1124. DOI:https://doi.org/10.1016/j.jclepro.2019.05.061.
+2. HU Yonghong.2016.Statistic Measurement and Empirical Research on Sustainable Development of China Internet
 3. 宁连举，孙中原，肖朔晨.平台生态系统中用户价值体系的形成与驱动机制研究-基于用户契合视角．东 北 大 学 学 报 （ 社 会 科 学 版 ）.2019．
-4.胡岗岚.平台型电子商务生态系统及其自组织机理研究.复旦大学博士学位论文.2010
-5.199it中文互联网数据资讯网.火星文化&卡思数据：2019美妆短视频KOL营销报告.2019.http://www.199it.com/archives/912260.html
-6.Internet Society 2015. The Internet and Sustainable Development. Internet Society.
-7.余菲菲，董飞.平台生态系统下我国中小制造企业与互联网融合发展路径研究.科技进步与对策.2019
-8.何欣.互联网金融生态系统：运行机制、缺陷与优化研究.中外企业家.2019
+4. 胡岗岚.平台型电子商务生态系统及其自组织机理研究.复旦大学博士学位论文.2010
+5. 199it中文互联网数据资讯网.火星文化&卡思数据：2019美妆短视频KOL营销报告.2019.http://www.199it.com/archives/912260.html
+6. Internet Society 2015. The Internet and Sustainable Development. Internet Society.
+7. 余菲菲，董飞.平台生态系统下我国中小制造企业与互联网融合发展路径研究.科技进步与对策.2019
+8. 何欣.互联网金融生态系统：运行机制、缺陷与优化研究.中外企业家.2019
 
 ## 五丶研究条件和可能存在的问题
 > 说明：学生自我评估，若没问题而被教师提问发现有重大研究条件及问题者，需要进行协助同学解决问题的社会服务。
